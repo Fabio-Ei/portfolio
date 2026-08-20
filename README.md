@@ -42,3 +42,9 @@ Portfólio pessoal desenvolvido para apresentar minha área de interesse, tecnol
 3. Selecione o arquivo `portfolio.sql` presente neste repositório.
 4. Execute a importação.
 5. Após a importação, confirme que o banco `portfolio` e suas tabelas foram criados.
+
+### Acessando o projeto
+
+Após iniciar o Apache e o MySQL e configurar o banco de dados, abra o navegador e acesse:
+
+`http://localhost/Portfolio/`
