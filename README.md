@@ -49,6 +49,8 @@ Após iniciar o Apache e o MySQL e configurar o banco de dados, abra o navegador
 
 `http://localhost/Portfolio/`
 
+> Este projeto atualmente está configurado para execução em ambiente local.
+
 ## 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, pratiquei e aprendi:
