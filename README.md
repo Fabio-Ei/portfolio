@@ -1,2 +1,3 @@
-# Portfolio
-Um pequeno potfolio, feito para uma melhor visualização sobre os projetos.
+# Portfólio
+
+Portfólio pessoal desenvolvido para apresentar minha área de interesse, tecnologias e projetos de desenvolvimento web.
