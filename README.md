@@ -48,3 +48,11 @@ Portfólio pessoal desenvolvido para apresentar minha área de interesse, tecnol
 Após iniciar o Apache e o MySQL e configurar o banco de dados, abra o navegador e acesse:
 
 `http://localhost/Portfolio/`
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, pratiquei e aprendi:
+
+- Utilização do Figma para criação de componentes e exportação de imagens estilizadas, facilitando a implementação das interfaces.
+- Criação de modais utilizando o elemento `dialog` do HTML em conjunto com JavaScript e CSS.
+- Integração entre estrutura HTML, estilos CSS e interações JavaScript para desenvolver elementos interativos da interface.
