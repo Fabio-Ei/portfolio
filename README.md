@@ -34,3 +34,11 @@ Portfólio pessoal desenvolvido para apresentar minha área de interesse, tecnol
 1. Instale o XAMPP.
 2. Coloque a pasta do projeto dentro do diretório `htdocs` do XAMPP.
 3. Inicie os serviços **Apache** e **MySQL** pelo painel do XAMPP.
+
+### Banco de dados
+
+1. Acesse o phpMyAdmin pelo endereço `http://localhost/phpmyadmin/`.
+2. Clique em **Importar**.
+3. Selecione o arquivo `portfolio.sql` presente neste repositório.
+4. Execute a importação.
+5. Após a importação, confirme que o banco `portfolio` e suas tabelas foram criados.
